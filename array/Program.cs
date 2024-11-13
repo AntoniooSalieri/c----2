@@ -1,2 +1,3 @@
-﻿int[] array = { 1, 2};
-Console.WriteLine(array[0]);
+﻿int[] array = {3, 2};
+Console.WriteLine(array[1]);
+Console.WriteLine(array.Length);
